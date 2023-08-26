@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    font: normal 20pt "comic sans MS";
+    border: 2px solid;
+    
+
+}
+body{
+    background-color: #5884ad;
+}
+ol{
+    font: normal 20pt "Comic Sans MS";
+    border: 1px solid
+}
+marquee{
+    font: normal 30pt "Times New Roman";
+    color: blueviolet;
+    border: 1px solid black;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+img{
+    width: 900px;
+}
+p{
+    text-align: center;
+}
